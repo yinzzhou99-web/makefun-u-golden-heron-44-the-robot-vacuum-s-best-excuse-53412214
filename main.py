@@ -7,7 +7,7 @@ one spot to /output/entry.txt. Clears nothing; the grader owns /output.
 
 from pathlib import Path
 
-LINE = "I skipped that spot: my bumper met the chair leg, my map redrew the house, and that corner now belongs to the house next door."
+LINE = "I didn't miss that spot — I was respecting the dust's privacy after it filed a restraining order against my brush roll."
 
 out = Path("/output")
 out.mkdir(parents=True, exist_ok=True)
